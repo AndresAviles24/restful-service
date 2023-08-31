@@ -1,9 +1,7 @@
 # restful-service
-# Ejemplo de Cajero Automático como si fuera Mainframe.
+# Spring Boot Rest API
 
 ## Funcionalidad
-
-**Spring Boot Rest API**
 
 **Objetivo:**  
 Desarrollar un programa basico para comprender el funcionamiento y estructura de un Restful API
